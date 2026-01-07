@@ -2,6 +2,8 @@
 
 A simple Python program that renders a rotating 3D wireframe cube using OpenGL.
 
+![alt text](image.png) 
+
 ## Overview
 
 This project demonstrates basic 3D graphics rendering using PyOpenGL. It creates a window displaying a wireframe cube that rotates in 3D space, showcasing fundamental concepts like rotation, perspective, and OpenGL drawing.
